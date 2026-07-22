@@ -8,7 +8,7 @@
         <samp>
                 「 From Uzbekistan, Khorezm 」
                 <br>
-                「 My amazing portfolio here: <a href="https://brodev.uz" target="_blank">brodev.uz</a> 」
+                「 My amazing portfolio here: <a href="https://datacademy.uz" target="_blank">datacademy.uz</a> 」
                 <br>
                 <br>
         </samp>
@@ -66,9 +66,6 @@
   <a href="https://github.com/RasulbekOzodov/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Software%20Engineer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<p align="center">
-  <a href="https://app.daily.dev/ogabekdev"><img src="https://api.daily.dev/devcards/v2/Iu5ny0IYJnCw3o5YsV3xF.png?r=sa2&type=wide" width="652" alt="Og'abek's Dev Card"/></a>
-</p>
 **RasulbekOzodov/RasulbekOzodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
