@@ -131,9 +131,8 @@ portfolio: https://datacademy.uz
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RasulbekOzodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulbekOzodov&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulbekOzodov&show_icons=true&theme=tokionight&layout=compact" alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RasulbekOzodov&hide_border=true&theme=tokyonight&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub streak" />
 </p>
