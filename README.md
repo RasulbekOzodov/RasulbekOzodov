@@ -152,22 +152,13 @@ portfolio: https://datacademy.uz
 
 <!-- REPO-NAME o'rniga o'zingizning repo nomlaringizni yozing -->
 <p align="center">
-  <a href="https://github.com/RasulbekOzodov/REPO-NAME-1">
+  <a href="https://github.com/RasulbekOzodov/datacademy-coder">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
   </a>
-  <a href="https://github.com/RasulbekOzodov/REPO-NAME-2">
+  <a href="https://github.com/RasulbekOzodov/ozbekcha_databaza">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/RasulbekOzodov/REPO-NAME-3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-3&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 3" />
-  </a>
-  <a href="https://github.com/RasulbekOzodov/REPO-NAME-4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-4&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 4" />
-  </a>
-</p>
-
 <br>
 
 <!-- ======================= CONNECT ======================= -->
