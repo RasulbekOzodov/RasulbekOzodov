@@ -1,87 +1,203 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rasulbek!](https://t.me/ozodov_rasulbek) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RasulbekOzodov.RasulbekOzodov)
+<!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rasulbek%20Ozodov&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20AI%20Engineer&descAlignY=52&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「 From Uzbekistan, Khorezm 」
-                <br>
-                「 My amazing portfolio here: <a href="https://datacademy.uz" target="_blank">datacademy.uz</a> 」
-                <br>
-                <br>
-        </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        </a>
-        <!-- HTML -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-        </a>
-        <!-- CSS  -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        </a>
-        <!-- JavaScript -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
-        <!-- Python -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
-        <!-- C++ -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
-        </a>
-        <!-- Scala -->
-        <a href="https://github.com/RasulbekOzodov?tab=repositories" target="_blank"><img alt="SCALA"
-                        src="https://img.shields.io/badge/-Scala-ff0000?style=flat-square&logo=scala&logoColor=white">
-        </a>
-</p>
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-<p align="center">
-  <a href="https://github.com/RasulbekOzodov/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Software%20Engineer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Full Stack Development (Web, Backend & Mobile)
-- 🌱 I’m currently learning new technology & tools
-
-<h3>
-  <summary>
-    📈  &nbsp; My GitHub Stats
-  </summary> 
-  
-  <br> 
-
-  <p align="center">
-   <a href="https://github.com/RasulbekOzodov">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RasulbekOzodov&show_icons=true&theme=tokionight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulbekOzodov&show_icons=true&theme=tokionight&layout=compact"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=Full-stack+Software+Engineer;Data+Analyst+%7C+AI+Engineer;7%2B+years+of+coding+experience;Turning+data+into+decisions;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
-</h3>
+
+<p align="center">
+  <a href="https://datacademy.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-datacademy.uz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://t.me/ozodov_rasulbek" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@ozodov__rasulbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RasulbekOzodov&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<br>
+
+<!-- ======================= ABOUT ======================= -->
+## 🧑‍💻 About Me
+
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="380" alt="coding" />
+
+```yaml
+name:      Rasulbek Ozodov
+location:  Khorezm, Uzbekistan 🇺🇿
+roles:
+  - Full-Stack Software Engineer
+  - Data Analyst
+  - AI / ML Engineer
+focus:     Web · Backend · Mobile · Data · AI
+portfolio: https://datacademy.uz
+```
+
+- 🔭 &nbsp;Building **full-stack products** and **data-driven / AI-powered** systems
+- 📊 &nbsp;Turning raw data into **dashboards, insights and decisions**
+- 🤖 &nbsp;Working with **LLMs, RAG pipelines, ML models and MLOps**
+- 💬 &nbsp;Ask me about **Python, SQL, React, Node.js, Pandas, PyTorch, LangChain**
+- 🌱 &nbsp;Constantly exploring new technologies, tools and architectures
+- 📫 &nbsp;Reach me on [Telegram](https://t.me/ozodov_rasulbek)
+
+<br clear="right" />
+
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="160"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,scala,html,css" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,nestjs" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions,kubernetes" alt="devops" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" alt="tools" /></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ======================= DATA & AI ======================= -->
+## 📈 Data Analytics &amp; AI Engineering
+
+<p align="center">
+  <b>📊 Data Analysis</b><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>📉 Visualization &amp; BI</b><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🤖 Machine Learning &amp; AI</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🧠 LLM &amp; MLOps</b><br>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<br>
+
+<!-- ======================= STATS ======================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RasulbekOzodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulbekOzodov&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RasulbekOzodov&hide_border=true&theme=tokyonight&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RasulbekOzodov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasulbekOzodov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true" width="95%" alt="Activity graph" />
+</p>
+
+<br>
+
+<!-- ======================= PROJECTS ======================= -->
+## 🚀 Featured Projects
+
+<!-- REPO-NAME o'rniga o'zingizning repo nomlaringizni yozing -->
+<p align="center">
+  <a href="https://github.com/RasulbekOzodov/REPO-NAME-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
+  </a>
+  <a href="https://github.com/RasulbekOzodov/REPO-NAME-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RasulbekOzodov/REPO-NAME-3">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-3&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 3" />
+  </a>
+  <a href="https://github.com/RasulbekOzodov/REPO-NAME-4">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-4&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 4" />
+  </a>
+</p>
+
+<br>
+
+<!-- ======================= CONNECT ======================= -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://t.me/ozodov_rasulbek" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://datacademy.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/YOUR-HF" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="mailto:rasulbekozodov24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/RasulbekOzodov">RasulbekOzodov</a> — thanks for stopping by!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</p>
