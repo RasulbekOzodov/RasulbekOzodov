@@ -130,7 +130,7 @@ portfolio: https://datacademy.uz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RasulbekOzodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=RasulbekOzodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RasulbekOzodov&show_icons=true&theme=tokyonight&layout=compact" alt="Top languages" />
 </p>
 <p align="center">
@@ -153,10 +153,10 @@ portfolio: https://datacademy.uz
 <!-- REPO-NAME o'rniga o'zingizning repo nomlaringizni yozing -->
 <p align="center">
   <a href="https://github.com/RasulbekOzodov/datacademy-coder">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=datacademy-coder&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=RasulbekOzodov&repo=datacademy-coder&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
   </a>
   <a href="https://github.com/RasulbekOzodov/ozbekcha_databaza">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=ozbekcha_databaza&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=RasulbekOzodov&repo=ozbekcha_databaza&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
   </a>
 </p>
 <br>
