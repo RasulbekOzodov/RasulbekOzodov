@@ -153,10 +153,10 @@ portfolio: https://datacademy.uz
 <!-- REPO-NAME o'rniga o'zingizning repo nomlaringizni yozing -->
 <p align="center">
   <a href="https://github.com/RasulbekOzodov/datacademy-coder">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=datacademy-coder&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 1" />
   </a>
   <a href="https://github.com/RasulbekOzodov/ozbekcha_databaza">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=REPO-NAME-2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RasulbekOzodov&repo=ozbekcha_databaza&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="Project 2" />
   </a>
 </p>
 <br>
@@ -171,11 +171,8 @@ portfolio: https://datacademy.uz
   <a href="https://datacademy.uz" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rasulbek-ozodov-29b0431b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://huggingface.co/YOUR-HF" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
   <a href="mailto:rasulbekozodov24@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
